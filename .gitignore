@@ -1,7 +1,10 @@
 #Project-specific
 outputs/
 input/
-testvid.mov
+data/
+*.mov
+*.mts
+*.jpg
 
 #General
 *.swp
